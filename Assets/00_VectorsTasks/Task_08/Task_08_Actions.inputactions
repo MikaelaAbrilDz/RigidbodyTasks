@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Task_08_Actions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "bf8a76ee-b270-45e4-96e9-344938a801cb",
+            "actions": [
+                {
+                    "name": "Boom",
+                    "type": "Button",
+                    "id": "59683a3f-e5c1-4df9-9fea-11e5663e16aa",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f07eaf73-dff0-4666-bf2b-70981b457a36",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Boom",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
