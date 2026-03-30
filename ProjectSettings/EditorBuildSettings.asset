@@ -6,8 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/00_VectorsTasks/Task_01/Scenes/Task_01.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/00_Rigidbody/Task_01/Scenes/Task_01.unity
+    guid: b828290adeb9f4d4c96e2cca839df3ef
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_02/Scenes/Task_02.unity
+    guid: b92e6056b5ee27b49aa3aec1d69ddd63
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_03/Scenes/Task_03.unity
+    guid: 72a1f4f279a479749b197d6c3215d74d
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_04/Scenes/Task_04.unity
+    guid: d2fbb3a446f60b14e98c0d0c5d1b1961
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_05/Scenes/Task_05.unity
+    guid: 77f87e253e55f5444a75eb53a8e00ab4
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_06/Scenes/Task_06.unity
+    guid: efaf20468bfc9d54d8116c686aae9610
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_07/Scenes/Task_07.unity
+    guid: cd6c9605ac1ac394f9f09706a69f9cea
+  - enabled: 1
+    path: Assets/00_Rigidbody/Task_08/Scenes/Task_08.unity
+    guid: 649a26a5f4da5034bb315cec2310d7f1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
